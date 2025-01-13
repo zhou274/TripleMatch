@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37b6f2aae95e8e343bdead7bb686b82f, type: 3}
+  m_Name: SpriteLibrary
+  m_EditorClassIdentifier: 
+  Apple: {fileID: 21300000, guid: a87b57050161fb24fb33011b30219b61, type: 3}
+  Bird: {fileID: 21300000, guid: 8bdef0b5b5817a94d8fb6c4fa9569bf9, type: 3}
+  Bow: {fileID: 21300000, guid: 22fbdbdcfeef52043a9f810e9e659560, type: 3}
+  Button: {fileID: 21300000, guid: 4c3dc74c04a1cb646a206f606719091b, type: 3}
+  Cactus: {fileID: 21300000, guid: 08f6ca76aabb15a49a6f74568e885e0f, type: 3}
+  Can: {fileID: 21300000, guid: 6fca01c76d362d9448b6b8c6004f7f06, type: 3}
+  Candy: {fileID: 21300000, guid: a92793686559d6245964720e74f585c4, type: 3}
+  Carrot: {fileID: 21300000, guid: 62dfb662232fe7649ad2a57fcbe4732f, type: 3}
+  Case: {fileID: 21300000, guid: 9b9d61385ac9d194a9bb40332df9faef, type: 3}
+  Cheese: {fileID: 21300000, guid: fa5c25ed1c5bd53409f6d81c913a0069, type: 3}
+  Cup: {fileID: 21300000, guid: dd5022e6a8788e54bbd0bd8069004ce5, type: 3}
+  Donut: {fileID: 21300000, guid: f5877bbcbcff57e4d99d4e841c591142, type: 3}
+  Foot: {fileID: 21300000, guid: 2c069882e26d95b40842ba0d2535c2f2, type: 3}
+  Hut: {fileID: 21300000, guid: 4eecc298acabe6145be0df1ad8f322b5, type: 3}
+  Jelly: {fileID: 21300000, guid: 178ccc5ef0f3bfc4d82e1eff1874585d, type: 3}
+  Lemon: {fileID: 21300000, guid: af6379d4ec596ca439e390c1b234f26b, type: 3}
+  MagnifyingGlass: {fileID: 21300000, guid: 61a0e880f5af5ac4cbf73a1517404497, type: 3}
+  Notebook: {fileID: 21300000, guid: 5183e9dc0400ced44ad0264b3f2ba87a, type: 3}
+  Pepper: {fileID: 21300000, guid: cbb3ea6de863d5845822a267aa2e34a0, type: 3}
+  Picture: {fileID: 21300000, guid: 11cbd09196ac2834490a8c8e28cb1401, type: 3}
+  Pie: {fileID: 21300000, guid: 25b94d983754e904b87f128772c76d7b, type: 3}
+  Pizza: {fileID: 21300000, guid: 76e625f0a50744c498bc6f1d0ebdeb38, type: 3}
+  Pot: {fileID: 21300000, guid: 3eb0badca95347642acbcacdb318b644, type: 3}
+  Spoon: {fileID: 21300000, guid: 307f7775f90b24644a215610cfbebc51, type: 3}
+  Spray: {fileID: 21300000, guid: 1100d5d45481eb64c8574af9e3917a22, type: 3}
+  Strawberry: {fileID: 21300000, guid: c7b530a15ea42ac428463c6c0d8b7dc0, type: 3}
+  Tomato: {fileID: 21300000, guid: 51ef45ce1fffbbc4fa9babe6549afde2, type: 3}
+  OneBooster: {fileID: 21300000, guid: 89c2d515be320114096d8114a9e0451b, type: 3}
+  TwoBoosters: {fileID: 21300000, guid: 3a9d7c93a200e17469edb3d965f12000, type: 3}
+  Magnet: {fileID: 21300000, guid: 5170cda22cafdfd4a9a691710f8f3a7c, type: 3}

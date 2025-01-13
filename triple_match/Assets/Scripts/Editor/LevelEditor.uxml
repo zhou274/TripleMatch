@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:Label text="Objects and Goals" display-tooltip-when-elided="true" />
+    <uie:PropertyField label="Objects" binding-path="Objects" focusable="true" />
+    <uie:PropertyField binding-path="Time" label="Time" focusable="true" />
+    <uie:PropertyField focusable="true" binding-path="Boosters" label="Boosters" />
+</ui:UXML>
