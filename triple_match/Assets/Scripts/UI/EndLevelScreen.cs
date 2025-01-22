@@ -42,9 +42,8 @@ public class EndLevelScreen : MonoBehaviour
         TimeLeft.gameObject.SetActive(true);
         TimeLeft_Text.text = timeString;
         restartButton.SetActive(false);
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("27u8cdewpt6j293lmo",
             () => {
-                Debug.LogError("--插屏广告完成--");
 
             },
             (it, str) => {
@@ -65,9 +64,8 @@ public class EndLevelScreen : MonoBehaviour
         RibbonText.text = "游戏失败";
         //Booster_Choice.gameObject.SetActive(true);
         restartButton.SetActive(true);
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("27u8cdewpt6j293lmo",
             () => {
-                Debug.LogError("--插屏广告完成--");
 
             },
             (it, str) => {

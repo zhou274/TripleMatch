@@ -84,7 +84,7 @@ public class LevelController : MonoBehaviour
     }
     public void ContinueGame()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("1jb7d48db7gg1gehgm",
             (bol) => {
                 if (bol)
                 {
